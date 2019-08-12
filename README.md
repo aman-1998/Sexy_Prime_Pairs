@@ -27,4 +27,4 @@ Explanation:
 
 (31, 37)
 
-We have to use Seive Of Eratosthenes algorithm in order to find prime numbers.
+* Note : We have to use Seive Of Eratosthenes algorithm in order to find prime numbers.
