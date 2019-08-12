@@ -26,3 +26,5 @@ Explanation:
 (23, 29) 
 
 (31, 37)
+
+We have to use Seive Of Eratosthenes algorithm in order to find prime numbers.
